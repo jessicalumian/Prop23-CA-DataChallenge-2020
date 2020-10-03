@@ -10,7 +10,29 @@
 
 
 ### Purpose/motivation
-Description of the project research question and approach
+The purpose of this project is to provide data visualization about Proposition 23, which would invoke new rules for Dialysis Clinics.
+
+## About Dialysis
+
+## Tenents of Prop 23
+
+**1. Require a Licensed Physician, Physician’s Assistant, or Nurse Practitioner to be on site at clinics during operating hours.**
+Current: Care provided by Patient Care Technicians.
+
+**2. Require clinics to report infections to the state.**
+Current: Infections reported to federal government.
+
+**3. Require clinics to get approval before closing.**
+Current: Hospitals are required get approval before closing services, dialysis clinics do not.
+
+**4. Prohibits clinics from discrimination against patients based on public or private insurance.**
+Current: Most coverage falls under Medicare,  Medi-Cal, or Group/Individual health insurance
+
+
+
+#### Who is Opposed
+
+#### Who is in Favor
 
 
 ### Directory Manifest
