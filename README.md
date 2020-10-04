@@ -9,7 +9,7 @@ This is the main directory for data and support files for data visualizations re
 ### Project Motivation
 The purpose of this project is to provide data visualization about Proposition 23, which would invoke new rules for Dialysis Clinics. This GitHub repository contains code for team Dialysis Analysis for the [2020 CA Data Challenge](https://datalab.ucdavis.edu/ca-election-2020-data-challenge/) sponsored by [UC Davis DataLab](https://datalab.ucdavis.edu/) and the [Scholars Strategy Network](https://scholars.org/chapter/sacramento). Our goal is to provide data visualizations that will allow voters to make an informed decision about Proposition 23 during the 2020 California election.
 
-![CAelections_data_challenge_crop.png](CAelections_data_challenge_crop.png)
+![images/CAelections_data_challenge_crop.png](images/CAelections_data_challenge_crop.png)
 
 ## About Dialysis and Clinics
 
@@ -35,7 +35,7 @@ Prop 23 would prevent dialysis clinics from treating patients different based on
 
 ## Supporters and Opponents of Prop 23
 
-![proponents_opponents_CalMatters.png](proponents_opponents_CalMatters.png)
+![images/proponents_opponents_CalMatters.png](images/proponents_opponents_CalMatters.png)
 Graphic source: [CalMatters](https://calmatters.org/election-2020-guide/proposition-23-kidney-dialysis-clinics/)
 
 ## Directory Structure
