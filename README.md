@@ -40,7 +40,7 @@ Graphic source: [CalMatters](https://calmatters.org/election-2020-guide/proposit
 
 ## Workflow
 
-![images/workflow.png](images/workflow.png)
+![images/workflow_crop.png](images/workflow_crop.png)
 
 ## Directory Structure
 
