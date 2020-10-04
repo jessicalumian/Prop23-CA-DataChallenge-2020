@@ -16,7 +16,7 @@ The purpose of this project is to provide data visualization about Proposition 2
 
 ## About Dialysis and Clinics
 
-Dialysis is a medical procedure where a patient's blood is taken out of their body, cleaned, and put back for patients that are experiencing kidney failture. Patients must receive dialysis three times a week for 3-4 sessions until they receive a new kidney or for the rest of their lives. As of 2020, roughly 80,000 individuals in CA depend on dialysis to survive. Out of the 600 dialysis clinics in California, 75% are owned by the private, for-profit companies [DaVita, Inc.](https://www.davita.com/) and [Fresenius Medical Care](https://fmcna.com/).
+Dialysis is a medical procedure where a patient's blood is taken out of their body, cleaned, and put back for patients that are experiencing kidney failture. Patients must receive dialysis three times a week for 3-4 sessions until they receive a new kidney or for the rest of their lives. As of 2020, **roughly 80,000 individuals in CA depend on dialysis** to survive. Out of the **600 dialysis clinics** in California, **75%** are owned by the private, for-profit companies [DaVita, Inc.](https://www.davita.com/) and [Fresenius Medical Care](https://fmcna.com/).
 
 ## Tenents of Prop 23
 
@@ -36,10 +36,10 @@ Although hospitals are required to get approval before closing, dialysis clinics
 
 Prop 23 would prevent dialysis clinics from treating patients different based on their insurance type.
 
+## Supporters and Opponents of Prop 23
 
-#### Who is Opposed
-
-#### Who is in Favor
+![proponents_opponents_CalMatters.png](proponents_opponents_CalMatters.png)
+Graphic source: [CalMatters](https://calmatters.org/election-2020-guide/proposition-23-kidney-dialysis-clinics/)
 
 
 ### Directory Manifest
