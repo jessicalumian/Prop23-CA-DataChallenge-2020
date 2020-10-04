@@ -41,13 +41,14 @@ Graphic source: [CalMatters](https://calmatters.org/election-2020-guide/proposit
 ## Directory Structure
 
 * [R_code](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/tree/main/R_code): contains R code analyses
-	* [SIR_analysis.R](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/blob/main/R_code/SIR_analysis.R) - generates [SIR graph](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/blob/main/images/SIR_plot.png)
+	* [SIR_analysis.R](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/blob/main/R_code/SIR_analysis.R) - generates [SIR graph](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/blob/main/analysis_output/SIR_plot.png)
 
+* [analysis_output](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/tree/main/analysis_output): contains output from code. Each output is linked to the code that produced it in the R_code directory.
 
 * [data](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/tree/main/data): contains datasets small enough to host on GitHub
 	* [Adults with Diabetes per 100](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/blob/main/data/adults-with-diabetes-per-100-lghc-indicator-23.csv)
 
-* [images](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/tree/main/images): graphs generated from code. Each graph is linked to the code it produced in the R_code section.
+* [images](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/tree/main/images): images for the ReadMe
 
 
 ## Contributors
