@@ -40,18 +40,18 @@ Graphic source: [CalMatters](https://calmatters.org/election-2020-guide/proposit
 
 ## Directory Structure
 
-* **[code]**(https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/tree/main/code): contains R code analyses
+* **[code](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/tree/main/code)**: contains R code analyses
 	* [CA_Diabetes.R](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/blob/main/code/CA_Diabetes.R) - generates diabetes in CA graph **link** 
 	* [CDI.R](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/blob/main/code/CDI.R) - generates chronic kidney disease in CA graphs **link**
 	* [SIR_analysis.R](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/blob/main/code/SIR_analysis.R) - generates [SIR graph](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/blob/main/output/SIR_plot.png)
 	* [clinic_map.R](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/blob/main/code/clinic_map.R) - generates html map of clinic closing in CA [population_map.html](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/blob/main/output/population_map.html)
 
-* **[data]**(https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/tree/main/data): contains datasets small enough to host on GitHub
+* **[data](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/tree/main/data)**: contains datasets small enough to host on GitHub
 	* [Adults with Diabetes per 100](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/blob/main/data/adults-with-diabetes-per-100-lghc-indicator-23.csv)
 
-* **[images]**(https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/tree/main/images): images for the ReadMe
+* **[images](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/tree/main/images)**: images for the ReadMe
 
-* **[output]**(https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/tree/main/analysis_output): contains output from code. Each output is linked to the code that produced it in the R_code directory
+* **[output](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/tree/main/analysis_output)**: contains output from code. Each output is linked to the code that produced it in the R_code directory
 
 
 ## Contributors
