@@ -73,7 +73,7 @@ Data source: CalMatters Voter Guides [2018](https://elections.calmatters.org/201
 
 * **[images](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/tree/main/images)**: images for the ReadMe
 
-* **[output](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/tree/main/analysis_output)**: contains output from code. Each output is linked to the code that produced it in the R_code directory
+* **[output](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/tree/main/analysis_output)**: contains output from code. Each output is linked to the code that produced it in the code directory
 
 
 ## Contributors
