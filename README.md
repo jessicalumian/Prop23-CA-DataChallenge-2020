@@ -59,7 +59,7 @@ Graphic source: [CalMatters](https://calmatters.org/election-2020-guide/proposit
 **Kate Johnson** (Team Leader) | Dialysis Overview, Proposition Analysis | *affiliation* | kaejohnson@ucdavis.edu <br/>
 **Hyunsoo Gloria Kim**  | Prop 8 vs Prop 23 Analysis | *UC Davis Microbiology Graduate Group* | hyunsookim@ucdavis.edu <br/>
 **Haneya Mustafa** | Profit vs Non-Profit Clinic Quality of Care Analysis | *affiliation* | hmustafa@ucdavis.edu <br/>
-**Earl Morales** | Chronic Kidney Disease and Diabetes Analysis | *affiliation* | epmorales@ucdavis.edu <br/>
+**Earl Morales** | Chronic Kidney Disease and Diabetes Analysis | *UC Davis Alumnus* | epmorales@ucdavis.edu <br/>
 **Andrew Caffrey** | Dialysis Clinic Map Visualization | *affiliation* | ajcaffrey@ucdavis.edu <br/>
 **Jessica Mizzi** | SIR Analysis, GitHub Construction | *UC Davis Microbiology Graduate Group* | jemizzi@ucdavis.edu <br/>
 
