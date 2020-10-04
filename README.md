@@ -41,7 +41,10 @@ Graphic source: [CalMatters](https://calmatters.org/election-2020-guide/proposit
 ## Directory Structure
 
 * [R_code](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/tree/main/R_code): contains R code analyses
+	* [CA_Diabetes.R](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/blob/main/R_code/CA_Diabetes.R) - generates diabetes in CA graph **link** 
+	* [CDI.R](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/blob/main/R_code/CDI.R) - generates chronic kidney disease in CA graphs **link**
 	* [SIR_analysis.R](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/blob/main/R_code/SIR_analysis.R) - generates [SIR graph](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/blob/main/analysis_output/SIR_plot.png)
+	* [clinic_map.R](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/blob/main/R_code/clinic_map.R) - generates html map of clinic closing in CA [population_map.html](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/blob/main/analysis_output/population_map.html)
 
 * [analysis_output](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/tree/main/analysis_output): contains output from code. Each output is linked to the code that produced it in the R_code directory.
 
