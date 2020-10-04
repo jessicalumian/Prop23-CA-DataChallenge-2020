@@ -40,13 +40,15 @@ Graphic source: [CalMatters](https://calmatters.org/election-2020-guide/proposit
 
 ## Directory Structure
 
-*  Folders:
-	* folder name - description of contents.
-* folder name - description of contents.
+* [R_code](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/tree/main/R_code): contains R code analyses
+	* [SIR_analysis.R](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/blob/main/R_code/SIR_analysis.R) - generates [SIR graph](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/blob/main/images/SIR_plot.png)
 
-* Files:
-	*  filename - description of contents and dependencies. What does     this file represent, and how does it fit in the workflow?
-*  filename - description of contents and dependencies.
+
+* [data](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/tree/main/data): contains datasets small enough to host on GitHub
+	* [Adults with Diabetes per 100](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/blob/main/data/adults-with-diabetes-per-100-lghc-indicator-23.csv)
+
+* [images](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/tree/main/images): graphs generated from code. Each graph is linked to the code it produced in the R_code section.
+
 
 ## Contributors
 
@@ -55,7 +57,7 @@ Graphic source: [CalMatters](https://calmatters.org/election-2020-guide/proposit
 **Haneya Mustafa** | Profit vs Non-Profit Clinic Quality of Care Analysis | *affiliation* | hmustafa@ucdavis.edu <br/>
 **Earl Morales** | Chronic Kidney Disease and Diabetes Analysis | *affiliation* | epmorales@ucdavis.edu <br/>
 **Andrew Caffrey** | Dialysis Clinic Map Visualization | *affiliation* | ajcaffrey@ucdavis.edu <br/>
-**Jessica Mizzi** | SIR Analysis, GitHub Construction | *UC Davis Microbiology Graduate Group* | jemizzi@ucdavis <br/>
+**Jessica Mizzi** | SIR Analysis, GitHub Construction | *UC Davis Microbiology Graduate Group* | jemizzi@ucdavis.edu <br/>
 
 
 ## Data Sources
