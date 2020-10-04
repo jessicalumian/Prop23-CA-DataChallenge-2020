@@ -41,9 +41,11 @@ Graphic source: [CalMatters](https://calmatters.org/election-2020-guide/proposit
 ## Directory Structure
 
 * **[code](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/tree/main/code)**: contains R code analyses
-	* [CA_Diabetes.R](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/blob/main/code/CA_Diabetes.R) - generates **[Diabetes Prevalence by Income](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/blob/main/output/Income_Diabetes.png)** and **[Diabetes Prevalence in CA](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/blob/main/output/Diabetes_prevalence.png)** graphs
-	* [CDI.R](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/blob/main/code/CDI.R) - generates **[Chornic Kidney Disease Prevalence](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/blob/main/output/CKD_prevalence.png)** and **[End-Stage Renal Disease and Diabetes](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/blob/main/output/ESRD_diabetes.png)** graphs
-	* [SIR_analysis.R](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/blob/main/code/SIR_analysis.R) - generates [SIR graph](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/blob/main/output/SIR_plot.png)
+
+	* [CA_Diabetes.R](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/blob/main/code/CA_Diabetes.R) - generates **[Diabetes Prevalence by Income](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/blob/main/output/Income_Diabetes.png)** and **[Diabetes Prevalence in CA](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/blob/main/output/Diabetes_prevalence.png)** graphs	
+	* [CDI.R](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/blob/main/code/CDI.R) - generates **[Chronic Kidney Disease Prevalence](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/blob/main/output/CKD_prevalence.png)** and **[End-Stage Renal Disease and Diabetes](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/blob/main/output/ESRD_diabetes.png)** graphs
+	* [Dialysis_Profit_vs_Nonprofit_comparison.R](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/blob/main/code/Dialysis_Profit_vs_Nonprofit_comparison.R) - generates **insert link to Haneya's graphs here**
+	* [SIR_analysis.R](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/blob/main/code/SIR_analysis.R) - generates [SIR graph](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/blob/main/output/SIR_plot.png)	
 	* [clinic_map.R](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/blob/main/code/clinic_map.R) - generates html map of clinic closing in CA [population_map.html](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/blob/main/output/population_map.html)
 
 * **[data](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/tree/main/data)**: contains datasets small enough to host on GitHub
@@ -92,4 +94,4 @@ Graphic source: [CalMatters](https://calmatters.org/election-2020-guide/proposit
 ### Presentation Materials
 
 * GoogleSlides Project: [https://docs.google.com/presentation/d/1dilmKT8ikLBBG8KGlc9RnVcHJqAQ8qxe_vIYHJnL1NE/edit?usp=sharing](https://docs.google.com/presentation/d/1dilmKT8ikLBBG8KGlc9RnVcHJqAQ8qxe_vIYHJnL1NE/edit?usp=sharing)
-* Video Presentation: insert link here
+* Video Presentation: **insert link here**
