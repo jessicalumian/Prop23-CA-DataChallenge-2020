@@ -1,15 +1,12 @@
-# Prop23-CA-DataChallenge-2020
+# Proposition 23 2020 CA Data Challenge
 
-# README
-### path(shorthand name of project)
-
-*This is the main directory for data and support files related to the PROJECT NAME.*
+This is the main directory for data and support files for data visualizations related to [Proposition 23](https://voterguide.sos.ca.gov/propositions/23/) by Team Dialysis Analysis.
 
 #### last updated: 10/2/2020
 #### last update by: [Jessica Mizzi](https://github.com/jessicamizzi)
 
 
-### Purpose/motivation
+### Project Motivation
 The purpose of this project is to provide data visualization about Proposition 23, which would invoke new rules for Dialysis Clinics. This GitHub repository contains code for team Dialysis Analysis for the [2020 CA Data Challenge](https://datalab.ucdavis.edu/ca-election-2020-data-challenge/) sponsored by [UC Davis DataLab](https://datalab.ucdavis.edu/) and the [Scholars Strategy Network](https://scholars.org/chapter/sacramento). Our goal is to provide data visualizations that will allow voters to make an informed decision about Proposition 23 during the 2020 California election.
 
 ![CAelections_data_challenge_crop.png](CAelections_data_challenge_crop.png)
@@ -41,8 +38,7 @@ Prop 23 would prevent dialysis clinics from treating patients different based on
 ![proponents_opponents_CalMatters.png](proponents_opponents_CalMatters.png)
 Graphic source: [CalMatters](https://calmatters.org/election-2020-guide/proposition-23-kidney-dialysis-clinics/)
 
-
-### Directory Manifest
+## Directory Structure
 
 *  Folders:
 	* folder name - description of contents.
@@ -52,20 +48,42 @@ Graphic source: [CalMatters](https://calmatters.org/election-2020-guide/proposit
 	*  filename - description of contents and dependencies. What does     this file represent, and how does it fit in the workflow?
 *  filename - description of contents and dependencies.
 
-### Personnel/Contributors
+## Contributors
 
-* full names and contact information of all persons involved in the project and their role.
-
-
-### Project URLs - (for example: to data sources you used for the project)
-
-* http://
-* http://
-
-### Project Repositories
-
-* Item name: https://
-* Item name: https://
+* Kate Johnson (Team Leader) | Dialysis Overview, Proposition Analysis | affiliation | kaejohnson@ucdavis.edu
+* Hyunsoo Gloria Kim  | Prop 8 vs Prop 23 Voter Analysis | UC Davis Microbiology Graduate Group | hyunsookim@ucdavis.edu
+* Haneya Mustafa | Profit vs Non-Profit Clinic Quality of Care Analysis | affiliation | hmustafa@ucdavis.edu
+* Earl Morales | Chronic Kidney Disease and Diabetes Analysis | affiliation | epmorales@ucdavis.edu
+* Andrew Caffrey | Dialysis Clinic Map Visualization | affiliation | ajcaffrey@ucdavis.edu
+* Jessica Mizzi | SIR Analysis, GitHub Construction | UC Davis Microbiology Graduate Group | jemizzi@ucdavis
 
 
+## Data Sources
 
+**2018 General Election Results and Proposition 8 Information**
+* XLS and PDF downloaded from [sos.ca.gov](sos.ca.gov): [General Election - Statement of Vote, November 6, 2018](https://www.sos.ca.gov/elections/prior-elections/statewide-election-results/general-election-november-6-2018/statement-vote)
+* Manually transferred dialysis clinic information from: [Ballotpedia - CA Proposition 8](https://ballotpedia.org/California_Proposition_8,_Limits_on_Dialysis_Clinics%27_Revenue_and_Required_Refunds_Initiative_(2018))
+* CalMatters Voter Guides [2018](https://elections.calmatters.org/2018/california-ballot-measures/proposition-8-dialysis-clinic-profit-pruning/) and [2020](https://calmatters.org/election-2020-guide/proposition-23-kidney-dialysis-clinics/) 
+
+**2020 Dialysis Facility Compare Dataset**
+* Facility details and patient health parameters from Center for Medicare and Medicaid: [ESRD QIP National Healthcare Safety - Dialysis Facility Compare](https://data.medicare.gov/Dialysis-Facility-Compare/ESRD-QIP-National-Healthcare-Safety-Network-combin/bmqj-88i5)
+* CSV file downloaded from [data.medicare.gov](data.medicare.gov)
+
+**Mapping California Dialysis Clinics, Populations, and Income Levels**
+* Dialysis clinic information extracted from the [ca.gov specialty care clinic datasets](https://data.ca.gov/dataset/specialty-care-clinic-complete-data-set) (2012-2019)
+* Population and income data acquired through an API call to [Census Reporter](https://censusreporter.org/topics/) (2014-2019)
+
+**Adults with Diabetes Per 100**
+* Downloaded from [California Open Data Portal](https://data.ca.gov/dataset/adults-with-diabetes-per-100-lghc-indicator) as CSV file
+* Source dataset for [Let's Get Healthy California](https://letsgethealthy.ca.gov/goals/living-well/decreasing-diabetes-prevalence/) Diabetes Indicator
+* Based on CA Behavioral Risk Factor Surveillance System (BRFSS)
+
+**US Chronic Disease Indicators**
+* Extracted from [CDC Division of Population Health](https://chronicdata.cdc.gov/Chronic-Disease-Indicators/U-S-Chronic-Disease-Indicators-CDI-/g4ie-h725) using API call
+	* Focus on CA BRFSS data
+* Database containing data from all 50 states plus Washington D.C. & Puerto Rico
+
+### Presentation Links
+
+* GoogleSlides Project: [https://docs.google.com/presentation/d/1dilmKT8ikLBBG8KGlc9RnVcHJqAQ8qxe_vIYHJnL1NE/edit?usp=sharing](https://docs.google.com/presentation/d/1dilmKT8ikLBBG8KGlc9RnVcHJqAQ8qxe_vIYHJnL1NE/edit?usp=sharing)
+* Video Presentation: insert link here
