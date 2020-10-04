@@ -2,7 +2,7 @@
 
 This is the main directory for data and support files for data visualizations related to [Proposition 23](https://voterguide.sos.ca.gov/propositions/23/) by Team Dialysis Analysis.
 
-#### last updated: 10/2/2020
+#### last updated: 10/4/2020
 #### last update by: [Jessica Mizzi](https://github.com/jessicamizzi)
 
 
@@ -37,6 +37,20 @@ Prop 23 would prevent dialysis clinics from treating patients different based on
 
 ![images/proponents_opponents_CalMatters.png](images/proponents_opponents_CalMatters.png)
 Graphic source: [CalMatters](https://calmatters.org/election-2020-guide/proposition-23-kidney-dialysis-clinics/)
+
+## Prop 8 (2018) vs Prop 23 (2020) and Campaign Spending
+
+Proposition 8 was a dialysis measure on the 2018 ballot. It required that dialysis companies pay back profits over 15% to insurance companies or individuals who pay out of pocket for dialysis services. This ballot measure was defeated, roughly 60% of people voted no compared to the 40% who voted yes. Below is a graph that shows the voting results by countries.
+
+#### 2018 Prop 8 Voting Results
+
+**insert image here**
+
+Both Prop 8 and Prop 23 involve large amounts of campaign contributions. We believe it is important for voters to be aware of what kind of financing is associated with this ballot. Prop 23 is California's second most expensive ballot measure this year, second only the Prop 22. So far, **California is the top spender in contributions with $538 million total**. The next highest spending state if Illinois, which had $80.6 million, only 15% of that. We encourage voters to reflect on the ballot measure history and financing when they consider which way they want to vote.
+
+#### Contributions Among Major Donors: Prop 8 (2018) vs Prop 23 (2020)
+
+**insert image here**
 
 ## Workflow
 
