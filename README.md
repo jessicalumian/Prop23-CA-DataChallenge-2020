@@ -38,6 +38,10 @@ Prop 23 would prevent dialysis clinics from treating patients different based on
 ![images/proponents_opponents_CalMatters.png](images/proponents_opponents_CalMatters.png)
 Graphic source: [CalMatters](https://calmatters.org/election-2020-guide/proposition-23-kidney-dialysis-clinics/)
 
+## Workflow
+
+![images/workflow.png](images/workflow.png)
+
 ## Directory Structure
 
 * **[code](https://github.com/jessicamizzi/Prop23-CA-DataChallenge-2020/tree/main/code)**: contains R code analyses
