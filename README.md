@@ -10,7 +10,7 @@
 
 
 ### Purpose/motivation
-The purpose of this project is to provide data visualization about Proposition 23, which would invoke new rules for Dialysis Clinics.
+The purpose of this project is to provide data visualization about Proposition 23, which would invoke new rules for Dialysis Clinics. This GitHub repository contains code for team Dialysis Analysis for the [2020 CA Data Challenge](https://datalab.ucdavis.edu/ca-election-2020-data-challenge/) sponsored by [UC Davis DataLab](https://datalab.ucdavis.edu/) and the [Scholars Strategy Network](https://scholars.org/chapter/sacramento).
 
 ## About Dialysis
 
