@@ -90,7 +90,7 @@ Data source: CalMatters Voter Guides [2018](https://elections.calmatters.org/201
 ## Data Sources
 
 **2018 General Election Results and Proposition 8 Information**
-* XLS and PDF downloaded from [sos.ca.gov](sos.ca.gov): [General Election - Statement of Vote, November 6, 2018](https://www.sos.ca.gov/elections/prior-elections/statewide-election-results/general-election-november-6-2018/statement-vote)
+* XLS and PDF downloaded from [sos.ca.gov](https://www.sos.ca.gov): [General Election - Statement of Vote, November 6, 2018](https://www.sos.ca.gov/elections/prior-elections/statewide-election-results/general-election-november-6-2018/statement-vote)
 * Manually transferred dialysis clinic information from: [Ballotpedia - CA Proposition 8](https://ballotpedia.org/California_Proposition_8,_Limits_on_Dialysis_Clinics%27_Revenue_and_Required_Refunds_Initiative_(2018))
 * CalMatters Voter Guides [2018](https://elections.calmatters.org/2018/california-ballot-measures/proposition-8-dialysis-clinic-profit-pruning/) and [2020](https://calmatters.org/election-2020-guide/proposition-23-kidney-dialysis-clinics/) 
 
