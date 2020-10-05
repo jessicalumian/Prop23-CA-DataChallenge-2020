@@ -79,10 +79,10 @@ Data source: CalMatters Voter Guides [2018](https://elections.calmatters.org/201
 
 ## Contributors
 
-**Kate Johnson** (Team Leader) | Dialysis Overview, Proposition Analysis | *UC Davis Statistics Undergrad* | kaejohnson@ucdavis.edu <br/>
+**Kate Johnson** (Team Leader) | Dialysis Overview, Prop Analysis | *UC Davis Statistics Undergrad* | kaejohnson@ucdavis.edu <br/>
 **Hyunsoo Gloria Kim**  | Prop 8 vs Prop 23 Analysis | *UC Davis Microbiology Graduate Group* | hyunsookim@ucdavis.edu <br/>
-**Haneya Mustafa** | Profit vs Non-Profit Clinic Quality of Care Analysis | *UC Davis & Family and Youth Institute* | hmustafa@ucdavis.edu <br/>
-**Earl Morales** | Chronic Kidney Disease and Diabetes Analysis | *UC Davis Statistics Alumnus* | epmorales@ucdavis.edu <br/>
+**Haneya Mustafa** | Profit vs Non-Profit Quality of Care Analysis | *UC Davis & Family and Youth Institute* | hmustafa@ucdavis.edu <br/>
+**Earl Morales** | Chronic Kidney Disease & Diabetes Analysis | *UC Davis Statistics Alumnus* | epmorales@ucdavis.edu <br/>
 **Andrew Caffrey** | Dialysis Clinic Map Visualization | *UC Davis Food Science Graduate Group* | ajcaffrey@ucdavis.edu <br/>
 **Jessica Mizzi** | SIR Analysis, GitHub Construction | *UC Davis Microbiology Graduate Group* | jemizzi@ucdavis.edu <br/>
 
@@ -115,7 +115,7 @@ Data source: CalMatters Voter Guides [2018](https://elections.calmatters.org/201
 ## Presentation Materials
 
 * [GoogleSlides Project](https://docs.google.com/presentation/d/1Kj2hrljppQqMJ6o5uBiWpjsh3AuWezkAFw5PeJTg7K4/edit?usp=sharing)
-* [Video Presentation](https://www.youtube.com/watch?v=T1yhpXEX2QU&feature=youtu.be&ab_channel=HyunsooKim)
+* [Video Presentation](https://www.youtube.com/watch?v=9WLFby5FJVM&feature=youtu.be&ab_channel=H.GloriaKim)
 
 ## References
 
