@@ -52,6 +52,7 @@ Both Prop 8 and Prop 23 involve large amounts of campaign contributions. We beli
 #### Campaign Contributions for Prop 8 (2018) and Prop 23 (2020)
 
 ![images/campaign_contributions_crop.png](images/campaign_contributions_crop.png)
+
 Data source: CalMatters Voter Guides [2018](https://elections.calmatters.org/2018/california-ballot-measures/proposition-8-dialysis-clinic-profit-pruning/) and [2020](https://calmatters.org/election-2020-guide/proposition-23-kidney-dialysis-clinics/)
 
 ## Project Workflow
