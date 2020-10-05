@@ -112,7 +112,27 @@ Data source: CalMatters Voter Guides [2018](https://elections.calmatters.org/201
 	* Focus on CA BRFSS data
 * Database containing data from all 50 states plus Washington D.C. & Puerto Rico
 
-### Presentation Materials
+## Presentation Materials
 
-* [GoogleSlides Project](https://docs.google.com/presentation/d/1dilmKT8ikLBBG8KGlc9RnVcHJqAQ8qxe_vIYHJnL1NE/edit?usp=sharing)
-* Video Presentation: **insert link here**
+* [GoogleSlides Project](https://docs.google.com/presentation/d/1Kj2hrljppQqMJ6o5uBiWpjsh3AuWezkAFw5PeJTg7K4/edit?usp=sharing)
+* [Video Presentation](https://www.youtube.com/watch?v=T1yhpXEX2QU&feature=youtu.be&ab_channel=HyunsooKim)
+
+## References
+
+### Proposition 23 Information
+
+* [CA SOS Voter Guide - Proposition 23](https://voterguide.sos.ca.gov/propositions/23/index.htm)
+* [CalMatters Election 2020 Guide - Proposition 23](https://calmatters.org/election-2020-guide/proposition-23-kidney-dialysis-clinics/)
+* [CalMatters Election 2018 Guide - Proposition 8](https://elections.calmatters.org/2018/california-ballot-measures/proposition-8-dialysis-clinic-profit-pruning/)
+* [LAO Ballot Analysis - Proposition 23](https://lao.ca.gov/ballot/2020/Prop23-110320.pdf)
+* [YesOnProp23.com](https://yesonprop23.com/)
+* [NoProposition23.com](https://noprop23.com/)
+* [California Proposition 23: Dialysis Clinics, Round 2](https://www.kalw.org/post/california-proposition-23-dialysis-clinics-round-2#stream/0)
+
+### Other References
+
+* [Census Reporter Topics](https://censusreporter.org/topics/)
+* [Living Well / Decreasing Diabetes Prevalence](https://letsgethealthy.ca.gov/goals/living-well/decreasing-diabetes-prevalence/)
+* [Kidney Disease: The Basics](https://www.kidney.org/news/newsroom/factsheets/KidneyDiseaseBasics)
+* Thamer, M.; Henderson, S. C.; Ray, N. F.; Rinehart, C. S.; Greer, J. W.; Danovitch, G. M. Unequal Access to Cadaveric Kidney Transplantation in    California Based on Insurance Status. Health Serv. Res. 1999, 34 (4), 879–900.
+* Tomassilli, J. C. & Morris, J. C.. California Behavioral Risk Factor Surveillance System (BRFSS) SAS Dataset Documentation and Technical Report: 1984-2018. Public Health Survey Research Program, California State University, Sacramento, 2018.
