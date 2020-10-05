@@ -35,7 +35,7 @@ Prop 23 would prevent dialysis clinics from treating patients different based on
 
 ## Supporters and Opponents of Prop 23
 
-![images/proponents_opponents_CalMatters.png](images/proponents_opponents_CalMatters.png)
+![images/proponents_opponents_CalMatters.png](images/proponents_opponents_CalMatters.png) </br>
 Graphic source: [CalMatters](https://calmatters.org/election-2020-guide/proposition-23-kidney-dialysis-clinics/)
 
 ## Prop 8 (2018) vs Prop 23 (2020) and Campaign Spending
@@ -44,14 +44,14 @@ Proposition 8 was a dialysis measure on the 2018 ballot. It required that dialys
 
 #### 2018 Prop 8 Voting Results
 
-![images/prop8_voting_tableau.png](images/prop8_voting_tableau.png)
+![images/prop8_voting_tableau.png](images/prop8_voting_tableau.png) </br>
 Data source: [General Election - Statement of Vote, November 6, 2018 from sos.ca.gov](https://www.sos.ca.gov/elections/prior-elections/statewide-election-results/general-election-november-6-2018/statement-vote)
 
 Both Prop 8 and Prop 23 involve large amounts of campaign contributions. We believe it is important for voters to be aware of what kind of financing is associated with this ballot. Prop 23 is California's second most expensive ballot measure this year, second only the Prop 22. So far, **California is the top spender in contributions with $538 million total**. The next highest spending state if Illinois, which had $80.6 million, only 15% of that. We encourage voters to reflect on the ballot measure history and financing when they consider which way they want to vote.
 
 #### Campaign Contributions for Prop 8 (2018) and Prop 23 (2020)
 
-![images/campaign_contributions_crop.png](images/campaign_contributions_crop.png)
+![images/campaign_contributions_crop.png](images/campaign_contributions_crop.png) </br>
 
 Data source: CalMatters Voter Guides [2018](https://elections.calmatters.org/2018/california-ballot-measures/proposition-8-dialysis-clinic-profit-pruning/) and [2020](https://calmatters.org/election-2020-guide/proposition-23-kidney-dialysis-clinics/)
 
